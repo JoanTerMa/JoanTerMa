@@ -1,4 +1,4 @@
- #  <center>I'm Joan but I'm also known as zafiraslot. 👾</center>
+ #  <center>I'm Joan but I'm also known as zafiraslot. </center>
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/5c/ba/a9/5cbaa9c87b87610aa78a34367027a773.jpg">
