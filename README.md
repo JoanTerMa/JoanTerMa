@@ -31,7 +31,9 @@ Joan Tercero Maraña
 
 
 ・Programming
+
 C++ & C#
+
 <img src="https://media1.tenor.com/m/64L_kwunu_wAAAAd/printhelloworld.gif">
 
 
